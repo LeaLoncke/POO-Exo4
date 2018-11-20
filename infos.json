@@ -1,32 +1,32 @@
-{
-  "user1" : {
+[
+  {
     "ID" : 1,
     "name" : "Gauthier",
     "age" : 19,
     "city" : "Haubourdin"
   },
-  "user2" : {
+  {
     "ID" : 2,
     "name" : "Préscillia",
     "age" : 19,
     "city" : "Loos"
   },
-  "user3" : {
+  {
     "ID" : 3,
     "name" : "Perrine",
     "age" : 11,
     "city" : "Lille"
   },
-  "user4" : {
+  {
     "ID" : 4,
     "name" : "Delphine",
     "age" : 44,
     "city" : "Lille"
   },
-  "user5" : {
+  {
     "ID" : 5,
     "name" : "Florine",
     "age" : 21,
     "city" : "Fenain"
   }
-}
+]
